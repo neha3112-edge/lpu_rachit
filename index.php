@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <span class="e2"> <p>Zero Cost</p><h3>EMI Available</h3> </span>
                             <span class="e3"> <p>Get Upto</p><h3>100% Jai Jawan Scholarship </h3> </span>
                         </div><br>
-                        <button class="program-btn download-brochure-btn"  onclick="downloadbrochure()" data-pdf="assets/brochures/lpu_mba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                        <button class="program-btn download-brochure-btn"  onclick="openBrochurePopup(this)" data-pdf="assets/brochures/lpu_mba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>LPU MBA Online program is designed for future leaders and working professionals. This program is highly flexible and offers practical business exposure.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 24 Month</p>
                     <p><i class='fa fa-book-open'></i> 08+ Specialization</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()" data-pdf="assets/brochures/lpu_mba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)" data-pdf="assets/brochures/lpu_mba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -167,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>This LPU Online MCA program enhances software and IT expertise. The course features placement support, real-world projects, within affordably, structured LPU MCA online fees.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 24 Month</p>
                     <p><i class="fa-solid fa-envelope"></i> Placement Alert on Email</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_mca.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_mca.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -181,7 +181,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Students get access to deepen their scientific knowledge with Lovely Professional University Online MSC degree. There are many career-oriented MSC specialisations.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 24 Month</p>
                     <p><i class='fa fa-book-open'></i> 01 Specialization </p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_msc.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_msc.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -195,7 +195,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Learners can advance their careers in finance and business with an online MCom course from LPU Online. The course tailors to meet modern commerce and industry requirements.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 24 Month</p>
                     <p><i class="fa-solid fa-briefcase"></i> Virtual Job Fair</p> -->
-                   <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_mcom.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                   <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_mcom.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Students get an opportunity to explore a wide range of humanities subjects. The curriculum authorises a student-friendly and affordable online MA degree.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 24 Month</p>
                     <p><i class='fa fa-book-open'></i> 04 Specialization</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_ma.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_ma.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -235,7 +235,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p> The LPU Online BBA program is designed for leaders & entrepreneurs as it builds a business foundation with a globally recognised  Lovely Professional University Online degree.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 36 Month</p>
                     <p><i class="fa-solid fa-briefcase"></i> Virtual Job Fair</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_bba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_bba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -248,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Lovely Professional University Online Courses provide insights in arts and social sciences. The LPU Online BA degree is ideal for creative and analytical thinkers.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 36 Month</p>
                     <p><i class="fa-solid fa-briefcase"></i> Virtual Job Fair</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_ba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_ba.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -263,7 +263,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Professionals start their career in tech with a practical and affordable LPU Online BCA program. It prepares them for in-demand IT roles through LPU Online courses.</p>
                     <!-- <p><i class="fa-solid fa-clock"></i> 36 Month</p>
                     <p><i class="fa-solid fa-envelope"></i> Placement Alert on Email</p> -->
-                    <button class="program-btn"  onclick="downloadbrochure()"  data-pdf="assets/brochures/lpu_bca.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
+                    <button class="program-btn"  onclick="openBrochurePopup(this)"  data-pdf="assets/brochures/lpu_bca.pdf">Download Brochure <i class="fa-solid fa-download"></i></button>
                     </div>
                 </div>
             </div>
@@ -726,46 +726,35 @@ window.addEventListener("pageshow", function () {
 
 
 <script>
-let selectedPDF = "";
-
-/* Called from button onclick */
-function downloadbrochure() {
-  const btn = event.currentTarget; // get clicked button
-  selectedPDF = btn.getAttribute('data-pdf');
-
-  if (!selectedPDF) {
-    alert('Brochure PDF not found.');
+function openBrochurePopup(btn) {
+  const pdf = btn.getAttribute('data-pdf');
+  if (!pdf) {
+    alert('PDF not found');
     return;
   }
 
-  // set hidden input value
-  const pdfInput = document.getElementById('brochure_pdf');
-  if (pdfInput) {
-    pdfInput.value = selectedPDF;
-  }
+  // store PDF path
+  document.getElementById('brochure_pdf').value = pdf;
 
-  // open modal
+  // open popup
   document.getElementById('downloadbrochuremodal').style.display = 'block';
 }
 
-/* FORM SUBMIT HANDLER */
-document.addEventListener('submit', function (event) {
-  const form = event.target;
+document.getElementById('enquiry-form').addEventListener('submit', function () {
 
-  if (form.id !== 'enquiry-form') return;
+  const pdf = document.getElementById('brochure_pdf').value;
 
-  const brochurePDF = form.querySelector('#brochure_pdf').value;
-
-  if (!brochurePDF) {
-    alert('Brochure not found.');
-    event.preventDefault();
-    return false;
+  if (pdf) {
+    // 🔥 THIS OPENS BEFORE FORM SUBMITS
+    window.open(pdf, '_blank');
   }
 
-  // open PDF
-  window.open(brochurePDF, '_blank');
+  // allow normal form submit → mail.php
 });
 </script>
+
+
+
 
 
 

@@ -245,33 +245,3 @@
         document.getElementById('disclaimerModal').style.display = 'none';
     }
     </script>
-
-
-
-<script>
-document.addEventListener('submit', function (event) {
-
-  const form = event.target;
-
-  if (form.id !== 'enquiry-form') return;
-
-  const courseSelect = form.querySelector('select[name="course"]');
-  const brochurePDF = form.querySelector('#brochure_pdf').value;
-
-  if (!courseSelect.value) {
-    alert('Please select a course before submitting the form.');
-    event.preventDefault();
-    return false;
-  }
-
-  if (!brochurePDF) {
-    alert('Brochure not found.');
-    event.preventDefault();
-    return false;
-  }
-
-  // Open the correct PDF
-  window.open(brochurePDF, '_blank');
-
-});
-</script>
