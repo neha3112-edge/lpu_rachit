@@ -55,7 +55,7 @@ $redirect_url = $brochures[$course] ?? '';
                 </center>
                 <br>
                 <div class="button">
-                    <a href="https://lpu.onlinedegreecourses.co.in">
+                    <a href="https://lpu-online.co.in/">
                         <center>
                             <button type="button" style="padding: 10px; border: 1px solid black; background-color:#002B5C; color: #fff;">
                                 For More Information kindly Visit Us
